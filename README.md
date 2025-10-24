@@ -98,7 +98,7 @@ pkill -f burpsuite_community_v2025.9.5.jar
 ---
 
 # Official links to include
-- Burp Suite Community (download page): https://portswigger.net/burp/communitydownload
+- Burp Suite Community (download page): https://portswigger.net/burp/releases/professional-community-2025-9-5
 - Temurin (Adoptium) downloads: https://adoptium.net/
 
 ---
